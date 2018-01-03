@@ -1,4 +1,6 @@
 # best-repo-ever
 test test
 test
-test branch-1
+HEAD
+test 2
+origin/master
